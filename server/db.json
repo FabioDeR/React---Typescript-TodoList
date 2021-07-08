@@ -1,0 +1,25 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "name": "Pleasure"
+    },
+    {
+      "id": 2,
+      "name": "Work"
+    }
+  ],
+  "todos": [
+    {
+      "title": "setup chips",
+      "id": 2,
+      "tagId": 1
+    },
+    {
+      "title": "watch movies",
+      "id": 3,
+      "tagId": 2
+    }
+  ],
+  "users": []
+}
